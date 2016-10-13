@@ -1,0 +1,5 @@
+c:\Projects\codilityTest\codilityTest.Liv\bin\Debug\codilityTest.Liv.dll
+c:\Projects\codilityTest\codilityTest.Liv\bin\Debug\codilityTest.Liv.pdb
+c:\Projects\codilityTest\codilityTest.Liv\obj\Debug\codilityTest.Lib.csprojResolveAssemblyReference.cache
+c:\Projects\codilityTest\codilityTest.Liv\obj\Debug\codilityTest.Liv.dll
+c:\Projects\codilityTest\codilityTest.Liv\obj\Debug\codilityTest.Liv.pdb

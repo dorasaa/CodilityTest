@@ -1,0 +1,8 @@
+c:\Projects\codilityTest\codilityTest\bin\Debug\codilityTest.exe.config
+c:\Projects\codilityTest\codilityTest\obj\Debug\codilityTest.csprojResolveAssemblyReference.cache
+c:\Projects\codilityTest\codilityTest\bin\Debug\codilityTest.exe
+c:\Projects\codilityTest\codilityTest\bin\Debug\codilityTest.pdb
+c:\Projects\codilityTest\codilityTest\obj\Debug\codilityTest.exe
+c:\Projects\codilityTest\codilityTest\obj\Debug\codilityTest.pdb
+c:\Projects\codilityTest\codilityTest\bin\Debug\codilityTest.Liv.dll
+c:\Projects\codilityTest\codilityTest\bin\Debug\codilityTest.Liv.pdb

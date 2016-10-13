@@ -1,0 +1,8 @@
+c:\Projects\codilityTest\codilityTest.tdd\bin\Debug\codilityTest.tdd.dll
+c:\Projects\codilityTest\codilityTest.tdd\bin\Debug\codilityTest.tdd.pdb
+c:\Projects\codilityTest\codilityTest.tdd\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Projects\codilityTest\codilityTest.tdd\obj\Debug\codilityTest.tdd.csprojResolveAssemblyReference.cache
+c:\Projects\codilityTest\codilityTest.tdd\obj\Debug\codilityTest.tdd.dll
+c:\Projects\codilityTest\codilityTest.tdd\obj\Debug\codilityTest.tdd.pdb
+c:\Projects\codilityTest\codilityTest.tdd\bin\Debug\codilityTest.Liv.dll
+c:\Projects\codilityTest\codilityTest.tdd\bin\Debug\codilityTest.Liv.pdb
